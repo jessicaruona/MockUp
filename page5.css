@@ -44,6 +44,10 @@
     margin-right: 0;
     text-align: center;
 }
+#tweet {
+    border-bottom: 1px white solid;
+    padding-bottom: 20px;
+}
 
 #connectedh1 {
     text-align: center;
