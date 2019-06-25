@@ -1,0 +1,43 @@
+.page2{
+    background: powderblue;
+
+    margin:0;
+    display: flex;
+    place-items: center;
+    justify-content: space-around;
+}
+
+.uiux {
+   
+    width: 300px;
+}
+
+#circle {
+        position: absolute;
+        width: 200px;
+        height: 200px;
+        background:transparent;
+        border: 5px solid white;
+        border-radius: 50%;
+        
+      }
+
+.expander2{
+    text-align: center;
+    width: 100px;
+    height: 100px;
+    transform: rotate(180deg) scaleX(-1);
+    border-top-left-radius: 50%;
+    border-top-right-radius: 50%;
+    bottom: -325px;
+    left: -75%;
+    position: relative;
+    padding: 10px;
+    font-size: 20px;
+    place-items: center;
+    
+}
+
+#page2color{
+    background: powderblue;
+}

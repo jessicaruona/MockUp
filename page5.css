@@ -1,0 +1,69 @@
+
+.pg5{
+    background-color:#5cd6d6;
+    display: flex;
+    place-items: center;
+    justify-content: space-around;
+
+}
+
+.page5 ul{
+    list-style-type: none;
+    text-align: left;
+}
+
+#getconnected ul{
+    text-align: left;
+
+}
+
+#getconnected ul li {
+   margin: 15px;
+}
+
+#getconnected{
+    margin-left: auto;
+    text-align: center;
+   
+}
+#getconnected  {
+    display: flex;
+}
+
+#lasttweets{
+    margin-right: auto;
+    width: 500px;
+    
+}
+#lasttweets ul li{
+    margin: 15px;
+
+}
+
+#lasttweets h1 {
+    margin-right: 0;
+    text-align: center;
+}
+
+#connectedh1 {
+    text-align: center;
+}
+.expander5 {
+    text-align: center;
+    width: 100px;
+    height: 50px;
+    transform: rotate(180deg) scaleX(-1);
+    border-top-left-radius: 50%;
+    border-top-right-radius: 50%;
+    bottom: -230px;
+    left: -25%;
+    position: relative;
+    padding: 10px;
+    font-size: 20px;
+    place-items: center;
+
+}
+#color5{
+    background:#5cd6d6;
+    color: white;
+}

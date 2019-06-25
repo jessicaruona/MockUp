@@ -1,0 +1,28 @@
+.page3{
+    background-color: white;
+    margin: 0;
+    padding:0;
+    display: flex;
+    justify-content: center;
+    justify-content: space-around; 
+    place-items: center;
+    color:#00004d;
+}
+
+.devright {
+    border: solid white 1px;
+    width: 300px;
+}
+
+.shapething {
+    font-size: 200px;
+    letter-spacing: 10px;
+    font-family: 'Open Sans Condensed', sans-serif;
+
+}
+
+#page3color {
+    background: white;
+    color: #00004d;
+    bottom: -150px;
+}
